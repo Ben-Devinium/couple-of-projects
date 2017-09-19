@@ -1,0 +1,224 @@
+{"version":3,"id":"857ee5f6-1d49-4af1-a10c-c63490a42eb5","address":"7c6adb6c8a8a8aafd84f12a086820a2e840c7b30","Crypto":{"ciphertext":"22e8a27e0f92139562050bc41f915aa6972cbc65c6aa95bd06e390f79ed4bd39","cipherparams":{"iv":"8de53e8298df5903bff16384e03796f0"},"cipher":"aes-128-ctr","kdf":"scrypt","kdfparams":{"dklen":32,"salt":"002ce1d57417356d70af372a3f63205a85e55c59dbc95544d70903ea074f67b6","n":1024,"r":8,"p":1},"mac":"87489be53c52d0e7ae3888ec4513778342cfd616577a4e1dc4383936ae7d8bb6"}}
+
+private key: 4bac63c05ae29cfccb205f8669ca8d7d6ee939b1cd6daa014b2605a867a41c80
+
+"address":"7c6adb6c8a8a8aafd84f12a086820a2e840c7b30"
+
+
+Mist Block Data
+stored in C:\Users\VM03\AppData\Roaming\Ethereum
+
+
+private key : 12be98954cd1969c10e8a7292ac6e56a45b68381ab6d5fdf6274615da488c7b8
+
+address: 0x81fbd174C77a3d0F711C2db6889b5BCf4049717e
+
+
+private key : e3f633358c626952dacd4309b14d12677a2834509b34f97085f9c74a528a74ad
+
+address : 0x077a7218eE48445b221244D4a1649109a80a1f15
+
+
+private key : 87dc1b43e1abb3939209d1e61fc175aaa8b877f8aae068b2f20d11720b45dc36
+
+address : 0x29bd8c8FCA534bAC572BbdFd8010CDb42CF86F73  HAS 10.90988 LAT tokens
+
+NEO Wallet 1: 
+		Password: password
+		Address: ARt5qeUuu4aNy2pnY8moYEfXXKmAYeeQBw
+		Private Key: HEX: 5209d675c87ddd2bdd43738cebd622c6bd5b099f1dad5f3404bf125bd9d44de6
+					 WIF: KyyBZR4L3yzy9o3vq6GS43fkTJ3BpfD5nCtrNpm4ktALqoTTpghi
+		Public Key: 03c09885121d585e81b984963c1699630f36cce21c654e7beffe4a925deef30f9f
+
+
+NEO Wallet 2:
+		password: *E$:a9%-3L/v.S/B
+		Private Key; L4DCxZqWFkJSc65y8yNEBDChMyEp9v7z5mRAVHK6v25w9RCrBWj8
+		Address: AKDU68qAq8pYYmSAQAPZnbzy6C1PhgGqGX		
+
+<section id="team" class="team content-section">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-md-12">
+        <h2>Our Team</h2>
+        <h3 class="caption gray">Meet the Latium Team</h3>
+      </div><!-- /.col-md-12 -->
+
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-4">
+            <div class="team-member" style="max-width: 280px;text-align: center;margin: 0 auto;">
+              <figure>
+                <img src="./img/DaveProfile.png" alt="" class="img-responsive" style="border-radius: 10px;">
+                <figcaption>
+                  <p>With over 25 years experience in development, FinTech and internet commerce, David provides the technical know how and business acumen for the Latium platform.</p>
+                </figcaption>
+              </figure>
+              <h4>David Johnson</h4>
+              <p style="margin-bottom: 0px;">CEO/Founder</p>
+              <a href="https://www.linkedin.com/in/david-johnson-382b9457/" target="_blank"><img src="./img/linkedin.png" style="margin-bottom: 10px;"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-4">
+            <div class="team-member" style="max-width: 280px;text-align: center;margin: 0 auto;">
+              <figure>
+                <img src="./img/MattProfile.png" alt="" class="img-responsive" style="border-radius: 10px;">
+                <figcaption>
+                  <p>A keen eye for detail and a strong understanding of aesthetics allows Matt to ensure visually pleasing final products for clients of all types.</p>
+                  
+                </figcaption>
+              </figure>
+              <h4>Matt Carden</h4>
+              <p style="margin-bottom: 0px;">CCO/Co-Founder</p>
+               <a href="https://www.linkedin.com/in/matthew-carden-b25b4759/" target="_blank"><img src="./img/linkedin.png" style="margin-bottom: 10px;"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-4">
+            <div class="team-member" style="max-width: 280px;text-align: center;margin: 0 auto;">
+              <figure>
+                <img src="./img/BenProfile.png" alt="" class="img-responsive" style="border-radius: 10px;">
+                <figcaption>
+                  <p>Ben is an office renaissance man. Answering late night emails or last minute development fixes are his specialty.</p>
+                </figcaption>
+              </figure>
+              <h4>Ben Myers</h4>
+              <p style="margin-bottom: 0px;">Developer</p>
+              <a href="https://www.linkedin.com/in/ben-myers-21856b26/" target="_blank"><img src="./img/linkedin.png" style="margin-bottom: 10px;"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+        <div class="row">
+
+          <div class="col-md-4">
+            <div class="team-member" style="max-width: 280px;text-align: center;margin: 0 auto;">
+              <figure>
+                <img src="./img/Moises.png" alt="" class="img-responsive" style="border-radius: 10px;">
+                <figcaption>
+                  <p>Truly a left-brain wizard, Moises can take your idea and turn it into a beautiful design. He is bilingual and fluent with all Adobe products.</p>
+                </figcaption>
+              </figure>
+              <h4>Moises Carmona</h4>
+              <p style="margin-bottom: 0px;">Creative Director</p>
+              <a href="https://www.linkedin.com/in/moises-carmona/" target="_blank"><img src="./img/linkedin.png" style="margin-bottom: 10px;"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-4">
+            <div class="team-member" style="max-width: 280px;text-align: center;margin: 0 auto;">
+              <figure>
+                <img src="./img/Jose.png" alt="" class="img-responsive" style="border-radius: 10px;">
+                <figcaption>
+                  <p>Andrew is obsessed with organization and efficiency. He works closely with clients to provide timely and satisfactory results.</p>
+                </figcaption>
+              </figure>
+              <h4>Jose Duarte</h4>
+              <p style="margin-bottom: 0px;">Graphic Designer</p>
+              <a href="https://www.linkedin.com/in/jose-duarte-8a1110149/" target="_blank"><img src="./img/linkedin.png" style="margin-bottom: 10px;"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+          <div class="col-md-4">
+            <div class="team-member" style="max-width: 280px;text-align: center;margin: 0 auto;">
+              <figure>
+                <img src="./img/Daniel.png" alt="" class="img-responsive" style="border-radius: 10px;">
+                <figcaption>
+                  <p>Temporibus dolor, quisquam consectetur molestias, veniam voluptatum. Beatae alias omnis totam.</p>
+                </figcaption>
+              </figure>
+              <h4>Daniel Alvarado</h4>
+              <p style="margin-bottom: 0px;">Graphic Designer</p>
+              <a href="https://www.linkedin.com/in/danielalvaradochacon/" target="_blank"><img src="./img/linkedin.png" style="margin-bottom: 10px;"></a>
+            </div><!-- /.team-member-->
+          </div><!-- /.col-md-4 -->
+
+
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</section><!-- /.our-team -->
+
+
+
+<section class="information" id="get-coins">
+
+<div class="container">	
+	  <div class="col-md-6 token-info">
+		<h3>Token Distribution Information</h3>
+			<p>The Pre-Sale period of the Latium Token Sale will be open on Monday, July 24th at 1 pm CST. This is your opportunity to purchase Latium Ethereum tokens at a discounted rate. You must first purchase Latium Classic during the Pre-Sale period which will then be exchanged for Latium Ethereum Tokens during Phase 1.</p>
+		<ol>
+			<li><p class="new-color">Pre-Sale Period</p>You will be able to purchase 150 Latium Classic for 1 ETH. Twitter marketing to earn Latium Classic will end. This period offers a 33% discount to subsequent Latium Token purchases. (1 ETH = 150 Latium Classic). This period will last until there are 4.5 million Latium Classic in circulation.</li>
+			<li><p class="new-color">Phase 1</p> This period is for Latium Classic holders only. Latium Ethereum tokens will be available for purchase at a rate of 1 to 1. (1 Latium Classic = 1 Latium Ethereum Token). This means any Latium Classic you have earned via Twitter marketing or purchased during the presale can be exchanged at a 1 to 1 ratio. Phase 1 will last for 1 week or until 2.5 million Latium Ethereum Tokens are in circulation.</li>
+			<li><p class="new-color">Phase 2</p> Once the Token Sale is open to the public, Latium Ethereum Tokens will be available for purchase. You may purchase 100 Latium Tokens for 1 Ethereum until 7.5 million tokens have been sold.</li>
+			<li><p class="new-color">Phase 3</p> After 7.5 million Tokens have been sold, the remaining 2.5 million tokens will be available for sale using Ethereum, Bitcoin, and Latium Classic. A period of 2 weeks will be given for this pool sale. At the end of the pool sale all 2.5 million coins will be distributed based on the percentage of the pool you contributed.</li>
+		</ol>
+	  </div>
+	  
+	  	  <div class="col-md-6 token-info">
+	  	<h3>Buy Latium Classic</h3>
+	  					
+	  		<p>First priority in the Token Sale will be given to Latium Classic holders in order to reward them for their support in the early days of the project. The Pre-Sale will end either on August 15th or once there are 4.5 million LATC in circulation. Phase 1 will begin as soon as the Pre-Sale period has ended.</p>
+	  		</div>
+	  	  <div class="col-md-6 circulation-wrapper">
+
+	  	<h4 class="circulation">Total LATIUM Classic Circulation</h4>
+
+	  	<div class="col-lg-12">
+
+	  	<div class="row hidden-xs hidden-sm supply">
+
+<h1><span class="latiumCirculation" style="font-size: 34px !important;">998,095.16</span></h1></div></div>
+
+<div class="row hidden-xs hidden-sm supply">
+
+
+	  	<img src="./img/LATC@0.5x.png"> <h1><a href="purchase" class="btn standard-button3" target="_blank">Buy Latium Classic</a></h1>
+
+	 </div>
+
+	 <div class="col-md-12">
+	 <div class="row hidden-lg hidden-md hidden-xs supply">
+	 <h1><span class="latiumCirculation" style="font-size: 34px !important;">998,095.16</span></h1></div></div>
+	 <div class="row hidden-lg hidden-md hidden-xs supply">
+	  	<img src="./img/LATC@0.5x.png" class="supply-sm"> <h1><a href="purchase" class="btn standard-button3" target="_blank">Buy Latium Classic</a></h1></div>
+	
+
+	<div class="col-sm-12">
+	 	 <div class="row hidden-lg hidden-md hidden-sm supply-sm" style="display: -webkit-inline-box;">
+
+	  	 <h1><span class="latiumCirculation">998,095.16</span></h1></div></div>
+	  	  <div class="row hidden-lg hidden-md hidden-sm supply-sm" style="display: -webkit-inline-box;">
+ <h1><a href="purchase" class="btn standard-button3" target="_blank">Buy Latium Classic</a></h1>
+	 </div>
+	 </div>
+
+	  <div class="col-md-6 token-info">
+	  	<h3>Download Latium Classic Wallet</h3>
+	  </div>
+
+	  <div class="col-md-6">
+	  		<p class="token-info">The Latium Classic Pre-Sale has begun. In order to purchase Latium Classic you must download the wallet. Also, for additional information on Latium Classic, or to view the Latium Classic coin metrics, please click "Get Wallet".</p>
+		<div class="wallet-spacing">
+			<a href="latiumclassic" class="btn btn-default" target="_blank">Get Wallet</a>
+			
+		</div>
+		<div class="wallet-spacing">
+		<div class="token-info"><h3>Generate Wallet Address</h3></div>
+		<p class="token-info">You can also generate a Latium Classic wallet address without downloading the wallet. Please click "Generate" below to receive a wallet address now.</p> 
+			<a href="wallet" class="btn btn-default" target="_blank">Generate</a>
+		</div>
+		<div class="wallet-spacing">
+		<div class="token-info"><h3>View the Latium Block Explorer</h3></div>
+			<a href="block" class="btn btn-default" target="_blank">Block Explorer</a>
+		</div>
+
+
+</div>
+
+</div></section>
